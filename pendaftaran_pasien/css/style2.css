@@ -1,0 +1,212 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:wght@100;200;300;400;500;600;700&family=Roboto+Flex:opsz@8..144&display=swap');
+
+:root {
+      --mainColor: #3258E8;
+      --white: #fff;
+      --red: #FF4949;
+      --green: #1A5862;
+      --yellow: #FFD37A;
+      --orange: #E29600;
+      --softGrey: #EFF5F5;
+      --font1: #232631;
+      --font2: #7B7B7B;
+      --darkBlue: #211B3D;
+}
+
+body {
+      font-family: 'Poppins', sans-serif;
+      background-color: var(--white);
+}
+
+.container-fluid {
+      padding: 16px 80px;
+}
+
+.jarakAtasBawah {
+      margin-top: 72px;
+      margin-bottom: 72px;
+}
+
+.jarakBawah {
+      margin-bottom: 72px;
+}
+
+.jarakAtas {
+      margin-top: 72px;
+}
+
+
+/* ------------- Navbar ------------- */
+
+.navbar {
+      font-size: 15px;
+      background-color: var(--white);
+}
+
+.nav-item {
+      margin: 0px 16px;
+      color: var(--font2);
+}
+
+.btnn {
+      font-size: 15px;
+      width: 160px;
+      height: 56px;
+      border-radius: 100px;
+      background-color: var(--mainColor);
+      color: var(--white);
+}
+
+.btnnn {
+      font-size: 15px;
+      width: 130px;
+      height: 56px;
+      border-radius: 100px;
+      background-color: var(--red);
+      color: var(--white);
+}
+
+/* ------------- Navbar ------------- */
+
+
+/* Hero */
+.title2 {
+      font-family: 'Poppins';
+      font-style: normal;
+      font-weight: 800;
+      font-size: 70px;
+      line-height: 88px;
+      margin-top: 96px;
+      margin-bottom: 20px;
+      color: var(--darkBlue);
+}
+
+
+.btn10 {
+      margin-top: 24px;
+      font-size: 16px;
+      width: 180px;
+      height: 60px;
+      border-radius: 100px;
+}
+
+.paragraf {
+      font-family: 'Poppins';
+      font-style: normal;
+      font-weight: 200;
+      font-size: 18px;
+      line-height: 40px;
+      color: var(--font1);
+}
+
+
+/* Jumlah */
+.section2{
+      background-color: var(--mainColor);
+      border-radius: 32px;
+      padding: 24px;
+      text-align: center;
+}
+
+.section2 h6{
+      font-size: 48px;
+      color: var(--white);
+      font-weight: 750;
+      
+}
+
+.section2 img{
+      height: 50px;
+      margin-top: 24px;
+      margin-bottom: 8px;
+}
+
+.section2 p{
+      font-size: 16px;
+      color: var(--white);
+}
+
+
+/* tentang kami */
+.title22 {
+      font-family: 'Poppins';
+      font-style: normal;
+      font-weight: 800;
+      font-size: 64px;
+      line-height: 80px;
+      margin-top: 56px;
+      margin-bottom: 20px;
+      color: var(--darkBlue);
+}
+
+.btn11 {
+      margin-top: 8px;
+      font-size: 16px;
+      width: 180px;
+      height: 60px;
+      border-radius: 100px;
+}
+
+
+/* Pelayanan */
+.title222 {
+      font-family: 'Poppins';
+      font-style: normal;
+      font-weight: 800;
+      font-size: 64px;
+      line-height: 80px;
+      margin-bottom: 20px;
+      color: var(--darkBlue);
+}
+
+.icon{
+      margin-top: 24px;
+      margin-bottom: 8px;
+      height: 56px;
+}
+
+.paragrafKhusus {
+      color: var(--mainColor);
+      font-size: 16px;
+      font-weight: 600;
+}
+
+.btn1 {
+      font-size: 16px;
+      width: 180px;
+      height: 60px;
+      border-radius: 100px;
+}
+
+.titleKeunggulan {
+      font-family: 'Poppins';
+      font-style: normal;
+      font-weight: 800;
+      font-size: 20px;
+      line-height: 30px;
+      color: #232631;
+}
+
+.paragraf1 {
+      font-family: 'Poppins';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 32px;
+      color: var(--font2);
+}
+
+.paragraf12{
+      font-family: 'Poppins';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 32px;
+      color: var(--font1);
+      
+}
+
+/* dokter */
+
+
+/* testimonial */
